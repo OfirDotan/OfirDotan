@@ -22,9 +22,11 @@ Low-Level Cybersecurity Enthusiast especially interested in binary exploitation,
 
 ![IDA](https://img.shields.io/badge/IDA%20Pro-000000?style=for-the-badge&logo=hex-rays&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
+![JADX](https://img.shields.io/badge/JADX-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![ESP](https://img.shields.io/badge/ESP-000000?style=for-the-badge&logo=espressif&logoColor=red)
 ![x86](https://img.shields.io/badge/x86--64-000000?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-F05032?style=for-the-badge&logo=apache&logoColor=white)
 
 

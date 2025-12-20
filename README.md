@@ -4,7 +4,7 @@ Low-Level Cybersecurity Enthusiast especially interested in binary exploitation 
 
 ![Ofir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofirdotan&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofirdotan&layout=compact&theme=tokyonight)
 
-## 💻 Languages:
+## 💻 Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
